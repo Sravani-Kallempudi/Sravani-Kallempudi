@@ -35,28 +35,3 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
-</div>
-</details> 
-
-
-
-
-<!--
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
--->
-<p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
-<!--- Footer End -->
-<!--- Body End -->
-
