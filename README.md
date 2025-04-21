@@ -14,25 +14,20 @@
 <!--- Adding Tech Stack open Section -->
 
 ## 🛠 Tech Stack / Certifications
-
 **Programming Languages:**  
-Python, SQL, C  
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C-555555?logo=c&logoColor=white&style=flat">&nbsp;
 
 **Data Engineering:**  
-ETL Development (AWS Glue, Lambda), Data Pipeline Optimization, Data Governance  
 <img src="https://img.shields.io/badge/-AWS%20Glue-F09600?logo=amazon-aws&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat">&nbsp;
 
 **Cloud Technologies:**  
-AWS (Redshift, S3, DynamoDB, Athena, IAM, Lake Formation), Azure  
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat">&nbsp;
 
-**Frameworks and Libraries:**  
-Django, Flask, Pandas, NumPy, PySpark, Sklearn  
+**Frameworks and Libraries:**   
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
@@ -43,7 +38,6 @@ Django, Flask, Pandas, NumPy, PySpark, Sklearn
 Agile, Scrum, SDLC
 
 **Tools & Technologies:**  
-Git, Jenkins, Docker, Kubernetes, Snowflake  
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
@@ -51,14 +45,12 @@ Git, Jenkins, Docker, Kubernetes, Snowflake
 <img src="https://img.shields.io/badge/-Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat">&nbsp;
 
 **Data Visualization:**  
-Power BI, Tableau, Excel (Advanced Analytics & Dashboards), Cognos  
 <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Cognos-052F4F?style=flat">&nbsp;
 
 **Database Management:**  
-MySQL, PostgreSQL, MongoDB, DynamoDB (NoSQL)  
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
