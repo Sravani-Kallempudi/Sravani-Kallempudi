@@ -8,9 +8,9 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Actively Looking for Data Engineer roles | CSUF <br>
+✨ Actively Looking for Data Analys/Data Engineer roles | CSUF <br>
 📫 How to reach me: sravanikallempudi.work@gmail.com<br>
-💬 Ask me about Data Science.<br>
+💬 Ask me about Data.<br>
 <!--- Adding Tech Stack open Section -->
 
 <details>	
